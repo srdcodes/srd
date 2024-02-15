@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Solana Reference Data](README.md)
+* [SRD](README.md)
