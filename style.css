@@ -45,6 +45,7 @@ main {
 }
 
 .background_container {
+    display: none;
     z-index: -3;
     overflow: hidden;
     line-height: 3.2;
