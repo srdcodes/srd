@@ -44,42 +44,6 @@ main {
     max-width: 650px;
 }
 
-.background_container {
-    display: none;
-    z-index: -3;
-    overflow: hidden;
-    line-height: 3.2;
-    text-align: center;
-    position: absolute;
-    left: -100px;
-    width: 110vw;
-    font-size: 8px;
-    font-weight: 400;
-    opacity: 0.1;
-    background: -webkit-linear-gradient(rgb(var(--background-start-rgb)), rgb(var(--foreground-rgb)));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
-}
-
-.bg_font_2 {
-    font-size: 16px;
-}
-
-.bg_font_3 {
-    font-size: 20px;
-}
-
-.bg_font_4 {
-    font-size: 24px;
-}
-
-.bg_font_5 {
-    font-size: 28px;
-}
-
 .btn {
     font-family: "JetBrains Mono", monospace;
     font-size: 16px;
